@@ -1,5 +1,5 @@
 # Simple-PDO-Class
-This class is a very simple class made for programmers who are tired of using quotes to escape string from being read as constants or syntax errors. This class will allow you to call different databases on different variables as well as allowing you to define values in an array as the second parameter of a function.
+This class is a very simple class made for programmers who are tired of using quotes to escape string from being read as constants or receiving syntax errors. This class will allow you to call different databases on different variables as well as allowing you to define values in an array as the second parameter of a function.
 
 ##### Calling a new class and setting the parameters for authentication
 
